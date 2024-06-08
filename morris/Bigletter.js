@@ -1,0 +1,31 @@
+const A = '._'
+const B = '_...'
+const C = '_._.'
+const D = '_..'
+
+const E = '.'
+const F = '.._.'
+const G = '__.'
+const H = '....'
+
+const I = '..'
+const J = '.___'
+const K = '_._'
+const L = '._..'
+
+const M = '__'
+const N = '_.'
+const O = '___'
+const P = '.__.'
+
+const Q = '__._'
+const R = '._.'
+const S = '...'
+const T = '_'
+
+const U = '.._'
+const V = '..._'
+const W = '.__'
+const X = '_.._'
+const Y = '_.__'
+const Z = '__..'
