@@ -1,1 +1,0 @@
-www = WritableStream +  WritableStreamDefaultWriter + WritableStreamDefaultController
