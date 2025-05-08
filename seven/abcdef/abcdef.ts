@@ -1,8 +1,6 @@
 import 'ABCDEF1.ts'
-import 'abc1.ts'
-import 'def1.ts'
-import 'abc2.ts'
-import 'def2.ts'
+import 'abc.ts'
+import 'def.ts'
 export async function abc12(abc1:any,abc2:any){
     this.ABC = abc1 + abc2
 }
